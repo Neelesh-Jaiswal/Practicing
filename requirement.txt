@@ -7,15 +7,11 @@ cycler==0.10.0
 decorator==4.4.2
 Flask==1.1.2
 idna==2.10
-ipykernel @ file:///C:/ci/ipykernel_1596190155316/work/dist/ipykernel-5.3.4-py3-none-any.whl
-ipython @ file:///C:/ci/ipython_1593447482397/work
 ipython-genutils==0.2.0
 itsdangerous==1.1.0
-jedi @ file:///C:/ci/jedi_1592833825077/work
 Jinja2==2.11.2
 joblib==0.16.0
 jsonify==0.5
-jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1594826976318/work
 jupyter-core==4.6.3
 kiwisolver==1.2.0
 MarkupSafe==1.1.1
@@ -42,6 +38,5 @@ threadpoolctl==2.1.0
 tornado==6.0.4
 traitlets==4.3.3
 urllib3==1.25.10
-wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
 Werkzeug==1.0.1
 wincertstore==0.2
