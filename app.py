@@ -4,7 +4,7 @@ import pandas as pd
 import pickle
 
 # load the model from disk
-loaded_model=pickle.load(open('XGboost_regression_model.pkl', 'rb'))
+loaded_model=pickle.load(open('Random_Forest_regression_model.pkl', 'rb'))
 app = Flask(__name__)
 
 @app.route('/')
